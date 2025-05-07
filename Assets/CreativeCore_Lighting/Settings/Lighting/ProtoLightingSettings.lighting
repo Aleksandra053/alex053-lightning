@@ -32,16 +32,15 @@ LightingSettings:
   m_FilterMode: 1
   m_LightmapParameters: {fileID: 111300000, guid: fe6d34a45b0127649a7ad96726de4d3f, type: 2}
   m_ExportTrainingData: 0
-  m_EnableWorkerProcessBaking: 1
   m_TrainingDataDestination: TrainingData
   m_RealtimeResolution: 2
   m_ForceWhiteAlbedo: 0
   m_ForceUpdates: 0
   m_PVRCulling: 0
   m_PVRSampling: 1
-  m_PVRDirectSampleCount: 128
+  m_PVRDirectSampleCount: 64
   m_PVRSampleCount: 512
-  m_PVREnvironmentSampleCount: 512
+  m_PVREnvironmentSampleCount: 32
   m_PVREnvironmentReferencePointCount: 2048
   m_LightProbeSampleCountMultiplier: 4
   m_PVRBounces: 2
